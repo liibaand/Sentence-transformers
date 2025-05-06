@@ -119,11 +119,4 @@ Below is the output from the training loop:
 - **Forward Pass:** The forward pass through the model computes outputs for both tasks.
 - **Metrics:** We computed the cross-entropy loss for both tasks and summed them to get the total loss.
 
-## Submission Instructions
-
-- **Code:** Share your code in a well-organized git repository.
-- **Docker:** Package it up in a Docker container for extra points.
-- **Explanations:** Provide explanations or comments for the steps taken.
-- **Task 3 and Task 4:** Include brief write-ups summarizing key decisions and insights.
-- **Environment Setup:** Ensure you include a `requirements.txt` file or an equivalent environment setup method so that we can replicate your results.
 
